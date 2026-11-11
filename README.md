@@ -26,7 +26,7 @@ Works with any assistant that can read a text file: Claude (Projects, Cowork, Cl
 4. **Connect one system, read-only.** One hour with IT. Write the row in `connections.md`.
 5. **Add the gate.** `gate.md`: one named person who reads every output before it is shared, and the checklist for anything saved.
 
-First checkpoint: the first chat that already knows your company. A layer a week, not a platform a year.
+First checkpoint: the first chat that already knows your company. A layer at a time, not a platform a year.
 
 ## Rules that came from the failures
 
