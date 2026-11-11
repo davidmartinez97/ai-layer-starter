@@ -4,7 +4,8 @@
 
 | Task | How often | Written down? (where) | Repeatable? | Skill |
 |---|---|---|---|---|
-| Meeting notes | daily | yes, [wiki page] | yes | first |
+| Meeting notes | daily | yes, [wiki page] | yes | first, `skills/meeting-notes` |
+| Morning page | daily | yes, `skills/today` | yes | a routine, on a schedule |
 | Weekly status update | weekly | yes, [template] | yes | second |
 | [task] | [daily / weekly / monthly] | [yes, where / partly / no] | [yes / no] | [now / later / never] |
 | [task] | | | | |

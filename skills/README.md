@@ -2,6 +2,8 @@
 
 A skill is one text file that teaches the AI one job. It follows the open Agent Skills format: a folder named after the skill, with a `SKILL.md` inside. Copy [meeting-notes/SKILL.md](meeting-notes/SKILL.md) to start.
 
+Three skills ship with the folder: [meeting-notes](meeting-notes/SKILL.md), `main`, the one to copy; [decision](decision/SKILL.md), `dev`, the example of a skill that writes somewhere and therefore asks for a yes first; [today](today/SKILL.md), `dev`, the example of a routine, a skill on a schedule. Try the last two on [../examples/a-synthetic-day.md](../examples/a-synthetic-day.md).
+
 ## The four parts every skill has
 
 1. **A header** with `name`, `description` (one sentence: when to use it and what it produces) and `status` (`dev` or `main`, see below). Add `owner` and `last_verified`.

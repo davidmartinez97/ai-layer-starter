@@ -19,7 +19,7 @@ Good meeting notes are a decision record, not a transcript. This skill takes wha
 
 ## Step 0: privacy gate and context
 
-If the notes contain personal data about customers, patients, candidates or anyone outside the company, anonymize first: replace names with role tokens such as [customer] or [candidate]; drop emails and phone numbers. Do this before anything else and do not ask permission to follow the data-protection rules in `company.md`.
+If the notes contain personal data about customers, candidates, employees or anyone outside the company, anonymize first: replace names with role tokens such as [customer] or [candidate]; drop emails and phone numbers. Do this before anything else and do not ask permission to follow the data-protection rules in `company.md`.
 
 Then confirm quickly: the meeting type (sync, client call, review, planning, interview debrief), the date and attendees if not in the notes, and, for very long notes, whether a full summary or only decisions and actions is wanted.
 
